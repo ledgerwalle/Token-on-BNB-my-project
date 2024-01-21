@@ -1,0 +1,16 @@
+Проверить, не занято ли название
+криптовалюты
+https://coinmarketcap.com/
+Код смарт-контракта
+https://drive.google.com/file/d/1FDYY.
+Сайт для создания криптовалюты из
+кода-https://remix.ethereum.org/
+Мониторинг сети BSC
+https://bscscan.com/
+https://bscscan.com/address/0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+Смотреть график цены, капитализацию
+и ликвидность созданной
+криптовалюты -
+https://poocoin.app/tokens/0x86071d6d..
+Тут биржа торговать 
+https://pancakeswap.finance/
