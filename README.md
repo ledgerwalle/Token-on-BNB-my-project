@@ -1,1 +1,1 @@
-We are glad to introduce you to the launch of our two tokens.  The first KRIPTONITCOIN token.  The second token is DTINTRASTCOIN.  The launch of the project on our website will take place in February 2024.  We will inform you about all plans and startups in official releases. https://poocoin.app/tokens/0x2F9B76A70FeDb0548BE6bC8289fa79f3FFc3339C Today we have deployed contracts at the start.https://poocoin.app/tokens/0x4Cc3d91b7F696Ece171397A784221415eeB5FCF4
+Crypo token contract
